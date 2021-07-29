@@ -23,7 +23,7 @@ cd sfh-recorder
 ```
 
 While the script running, it will continuously capture the input stream, encode
-it, and upload it to Google Drive in 30 minute chunks.
+it, and store it in 30-minute chunks. Uploading needs to be done separately.
 
 ## License
 
