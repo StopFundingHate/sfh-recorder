@@ -24,7 +24,3 @@ cd sfh-recorder
 
 While the script running, it will continuously capture the input stream, encode
 it, and store it in 30-minute chunks. Uploading needs to be done separately.
-
-## License
-
-... license tbd when we make this public ...
